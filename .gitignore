@@ -1,0 +1,8 @@
+/.import
+/_dlls
+/nakefile
+/.vscode
+/src/godotapi
+/logs
+nimcache
+.nimcache
